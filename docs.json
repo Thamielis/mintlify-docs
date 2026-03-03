@@ -86,6 +86,19 @@
         "pages": [
           "notizen"
         ]
+      },
+      {
+        "tab": "GitHub",
+        "anchors": [
+          {
+            "anchor": "PSBadger",
+            "color": {
+              "light": "#f7b306",
+              "dark": "#f7b306"
+            },
+            "href": "https://github.com/In-Pro-Org/PSBadger"
+          }
+        ]
       }
     ]
   },
