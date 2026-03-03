@@ -29,18 +29,11 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
+            "pages": ["index", "quickstart", "development"]
           },
           {
             "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
+            "pages": ["essentials/settings", "essentials/navigation"]
           },
           {
             "group": "Writing content",
@@ -66,9 +59,7 @@
         "groups": [
           {
             "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
+            "pages": ["api-reference/introduction"]
           },
           {
             "group": "Endpoint examples",
@@ -83,20 +74,20 @@
       },
       {
         "tab": "PowerShell",
-        "pages": [
-          "notizen"
-        ]
+        "pages": ["notizen"]
       },
       {
         "tab": "GitHub",
-        "anchors": [
+        "groups": [
           {
-            "anchor": "PSBadger",
-            "color": {
-              "light": "#f7b306",
-              "dark": "#f7b306"
-            },
-            "href": "https://github.com/In-Pro-Org/PSBadger"
+            "group": "Projects",
+            "pages": ["index", "quickstart", "development"]
+          },
+          {
+            "group": "GitHub related",
+            "pages": [
+              "PSBadger"
+            ]
           }
         ]
       }
@@ -121,15 +112,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
