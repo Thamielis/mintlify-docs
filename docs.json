@@ -29,11 +29,18 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "development"]
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
           },
           {
             "group": "Customization",
-            "pages": ["essentials/settings", "essentials/navigation"]
+            "pages": [
+              "essentials/settings",
+              "essentials/navigation"
+            ]
           },
           {
             "group": "Writing content",
@@ -59,7 +66,9 @@
         "groups": [
           {
             "group": "API documentation",
-            "pages": ["api-reference/introduction"]
+            "pages": [
+              "api-reference/introduction"
+            ]
           },
           {
             "group": "Endpoint examples",
@@ -74,19 +83,26 @@
       },
       {
         "tab": "PowerShell",
-        "pages": ["notizen"]
+        "pages": [
+          "notizen"
+        ]
       },
       {
         "tab": "GitHub",
         "groups": [
           {
             "group": "Projects",
-            "pages": ["index", "quickstart", "development"]
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
           },
           {
             "group": "GitHub related",
             "pages": [
-              "PSBadger"
+              "PSBadger",
+              "codex-cli"
             ]
           }
         ]
