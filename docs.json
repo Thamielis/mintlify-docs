@@ -83,8 +83,21 @@
       },
       {
         "tab": "PowerShell",
-        "pages": [
-          "notizen"
+        "groups": [
+          {
+            "group": "PowerShell projects",
+            "pages": [
+              "powershell-projects/index",
+              "powershell-projects/project-template",
+              "powershell-projects/release-checklist"
+            ]
+          },
+          {
+            "group": "Notes",
+            "pages": [
+              "notizen"
+            ]
+          }
         ]
       },
       {
