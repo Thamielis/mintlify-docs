@@ -89,7 +89,8 @@
             "pages": [
               "powershell-projects/index",
               "powershell-projects/project-template",
-              "powershell-projects/release-checklist"
+              "powershell-projects/release-checklist",
+              "powershell-projects/startautomating-modules"
             ]
           },
           {
